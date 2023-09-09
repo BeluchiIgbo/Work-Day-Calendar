@@ -34,7 +34,7 @@ THEN the saved events persist
 ## Assets
 
 The following image demonstrates the web application's appearance and functionality:
-![](assets/images/code-quiz-image.png) 
+![](assets/05-third-party-apis-homework-demo.gif) 
 
 ## Review
 
