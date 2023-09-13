@@ -51,5 +51,10 @@ Repositiory contains a quality README file with description, screenshot, and lin
 * https://docs.appian.com/suite/help/23.3/reference-js-api.html 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
 * https://support.smartbear.com/testcomplete/docs/scripting/working-with/time/javascript.html 
+* https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault 
+* https://developer.mozilla.org/en-US/search?q=siblings
+* https://blog.logrocket.com/localstorage-javascript-complete-guide/
+
+
 
 
