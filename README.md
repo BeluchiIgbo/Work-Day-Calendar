@@ -4,7 +4,7 @@
 
 A daily planner between 9am - 5 pm that schedules color coded events indicting past, present, or future.
   
-* Deployed Webiste here
+* [Deployed Webiste here](https://beluchiigbo.github.io/Work-Day-Calendar/)
 
 ## User Story
 
