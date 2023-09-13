@@ -45,8 +45,6 @@ Applicaiton loads with no errors.
 Repositiory contains a quality README file with description, screenshot, and link to deployed application.
 
 ## Source
-* https://fonts.google.com/specimen/Montserrat?preview.text=Whereas%20disregard%20and%20contempt%20for%20human%20rights%20have%20resulted&preview.text_type=custom&query=montserrat
-* https://www.figma.com/community/plugin/740832935938649295/Color-Palettes
 * https://day.js.org/
 * https://docs.appian.com/suite/help/23.3/reference-js-api.html 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
